@@ -10,6 +10,8 @@ public class TC001 {
 
         // this is negative testing
 
+        // positive testing
+
     }
 
 }
